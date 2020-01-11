@@ -1,0 +1,26 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input {
+  width: 300px;
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+button {
+  margin: 1rem 0;
+  padding: 5px 10px;
+  background-color: lightblue;
+  border-radius: 10px;
+  border: none;
+  font-size: 1rem;
+}
+
+#result {
+  font-size: 2rem;
+}
